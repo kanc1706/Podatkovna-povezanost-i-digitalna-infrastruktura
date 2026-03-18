@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Leon</ime>
+    <prezime>Kancir</prezime>
+    <jmbg>7869572813452</jmbg>
+    <datumRodjenja>2005-06-17</datumRodjenja>
+    <godinaStudija>2</godinaStudija>
+
+    <kontakt>
+        <email>Leon60K@gmail.com</email>
+        <telefon>0921887686</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <kolegij>
+            <naziv>Programiranje</naziv>
+            <profesor>Marko Marić</profesor>
+            <ects>6</ects>
+        </kolegij>
+
+        <kolegij>
+            <naziv>Baze podataka</naziv>
+            <profesor>Ana Anićević</profesor>
+            <ects>5</ects>
+        </kolegij>
+
+        <kolegij>
+            <naziv>Engleski Jezik u Informatici</naziv>
+            <profesor>Ivan Horvat</profesor>
+            <ects>6</ects>
+        </kolegij>
+    </kolegiji>
+</student>

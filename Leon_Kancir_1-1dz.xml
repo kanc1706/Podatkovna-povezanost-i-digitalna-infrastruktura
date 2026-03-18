@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Leon</ime>
+    <prezime>Kancir</prezime>
+    <jmbg>7869572813452</jmbg>
+    <datumRodjenja>2005-06-17</datumRodjenja>
+    <godinaStudija>2</godinaStudija>
+    <studijskiProgram>Informatika</studijskiProgram>
+    
+    <adresa>
+        <ulica>Ulica svetog Andrije 30</ulica>
+        <grad>Cazma</grad>
+        <postanskiBroj>43240</postanskiBroj>
+    </adresa>
+</student>
