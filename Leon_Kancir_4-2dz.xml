@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="narudzba.xsd">
+    <kupac>Marko Marić</kupac>
+    <datumNarudzbe>2026-04-20</datumNarudzbe>
+    <kolicina>3</kolicina>
+    <statusNarudzbe>u_obradi</statusNarudzbe>
+    <ukupanIznos valuta="EUR">249.99</ukupanIznos>
+</narudzba>
