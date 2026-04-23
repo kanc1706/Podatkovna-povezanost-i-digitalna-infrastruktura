@@ -1,0 +1,16 @@
+<Narudzba>
+    <Ime>Ivan</Ime>
+    <Prezime>Horvat</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ulica 1</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <NaruceniArtikl>
+        <Naziv>Laptop</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>999.99</Cijena>
+    </NaruceniArtikl>
+</Narudzba>
