@@ -1,0 +1,16 @@
+<Osoba spol="M">
+    <Ime>Leon</Ime>
+    <Prezime>Kancir</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ulica 30.svibnja</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <Kontakt>
+        <Mobitel>0911234567</Mobitel>
+        <KucniTelefon>012345678</KucniTelefon>
+        <Email>Leon60K@gmail.com</Email>
+    </Kontakt>
+</Osoba>
